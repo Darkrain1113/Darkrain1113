@@ -7,7 +7,7 @@
 🔹 Former **MiCUP research participant at Michigan Tech** <br>
 🔹 Exploring **embedded systems, microchips, and robotics** <br>
 
-📚 **Continuing my journey in CS at UMich this fall** <br>
+📚 **Continuing my journey in CS at UMich this fall 2025** <br>
 🌍 Learning **Spanish and exploring cultures through study abroad experiences** <br>
 
 ### 📫 Connect with Me  
