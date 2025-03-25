@@ -8,7 +8,7 @@
 🔹 Exploring **embedded systems, microchips, and robotics** <br>
 
 📚 **Continuing my journey in CS at UMich this fall 2025** <br>
-🌍 Learning **Spanish and exploring cultures through study abroad experiences** <br>
+
 
 ### 📫 Connect with Me  
 🔗 <a href="https://www.linkedin.com/in/isaac-sutka-119113303/">LinkedIn</a> <br>
