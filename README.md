@@ -1,13 +1,13 @@
-# 🚀 Aspiring Computer Scientist & Engineer | Research Enthusiast | Game Developer  
+🚀 Computer Science @ U-M | Research Intern @ CLASP | Machine Learning & Data Analysis
 
-🔹 Passionate about **computer science, physics, and mathematics** <br>
-🔹 Interested in **game development, AI/ML, robotics, and bioinformatics** <br>
-🔹 Experience with **Python, HTML/CSS, and Pygame** <br>
-🔹 Research background in **Kolmogorov-Arnold Networks (KAN) vs. Artificial Neural Networks (ANN)** <br>
-🔹 Former **MiCUP research participant at Michigan Tech** <br>
-🔹 Exploring **embedded systems, microchips, and robotics** <br>
-
-📚 **Continuing my journey in CS at UMich this fall 2025** <br>
+🔹 Research Scholar @ University of Michigan CLASP (UROP) — Developing AI models to detect RF emissions from hypervelocity impacts (HVI) of space debris
+🔹 Former Research Fellow @ CLASP — Applied machine learning and data analysis to spectrogram data for RF signal detection
+🔹 Passionate about computer science, physics, and mathematics
+🔹 Interested in game development, AI/ML, robotics, and bioinformatics
+🔹 Experience with Python, HTML/CSS, Java, and Pygame
+🔹 Research background in Kolmogorov-Arnold Networks (KAN) vs. Artificial Neural Networks (ANN) for protein prediction
+🔹 Former MiCUP research participant at Michigan Tech
+🔹 Hands-on experience with embedded systems, microchips, and robotics
 
 
 ### 📫 Connect with Me  
