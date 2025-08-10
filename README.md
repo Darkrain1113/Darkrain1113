@@ -1,13 +1,14 @@
-🚀 Computer Science @ U-M | Research Intern @ CLASP | Machine Learning & Data Analysis
+# 🚀 Computer Science @ U-M | Research Intern @ CLASP | Machine Learning & Data Analysis
 
-🔹 Research Scholar @ University of Michigan CLASP (UROP) — Developing AI models to detect RF emissions from hypervelocity impacts (HVI) of space debris
-🔹 Former Research Fellow @ CLASP — Applied machine learning and data analysis to spectrogram data for RF signal detection
-🔹 Passionate about computer science, physics, and mathematics
-🔹 Interested in game development, AI/ML, robotics, and bioinformatics
-🔹 Experience with Python, HTML/CSS, Java, and Pygame
-🔹 Research background in Kolmogorov-Arnold Networks (KAN) vs. Artificial Neural Networks (ANN) for protein prediction
-🔹 Former MiCUP research participant at Michigan Tech
-🔹 Hands-on experience with embedded systems, microchips, and robotics
+- **Research Scholar @ University of Michigan CLASP (UROP)** — Developing AI models to detect RF emissions from hypervelocity impacts (HVI) of space debris  
+- **Former Research Fellow @ CLASP** — Applied machine learning and data analysis to spectrogram data for RF signal detection  
+- Passionate about computer science, physics, and mathematics  
+- Interested in game development, AI/ML, robotics, and bioinformatics  
+- Experience with Python, HTML/CSS, Java, and Pygame  
+- Research background in Kolmogorov-Arnold Networks (KAN) vs. Artificial Neural Networks (ANN) for protein prediction  
+- Former MiCUP research participant at Michigan Tech  
+- Hands-on experience with embedded systems, microchips, and robotics  
+
 
 
 ### 📫 Connect with Me  
